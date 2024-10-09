@@ -1,4 +1,4 @@
-oid main() {
+void main() {
   /*
    * comentario en dart
    */
